@@ -23,7 +23,7 @@ module.exports = {
          chainId: 1287,
       },
       standalone: {
-         url: 'http://127.0.0.1:9937',
+         url: 'http://127.0.0.1:9933',
          accounts: [privateKey1],
          network_id: '1281',
          gasPrice: 0,
